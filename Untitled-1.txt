@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Constructive &amp; Co.</ title> 
+<script>
+consle.log('hello')
+</script>
+<link rel ="stylesheet" href="css/ cOl.css" />
+</ head>
+<body>
+<hl>Constructive &amp ; Co. </ hl>
+<script src="js/ add-content.js"></ script>
+<p>For all orders and i nquiries please cal l
+<em>SSS-3344</ em></ p>
+</ body>
+</html> 
